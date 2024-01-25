@@ -1,0 +1,19 @@
+{
+  "name": "e2etypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "cypress": "^13.6.2",
+    "typescript": "^5.3.3",
+    "xml2js": "^0.6.2"
+  }
+}
