@@ -1,4 +1,4 @@
-describe('Gorest API chaining', () => {
+describe('Gorest API chaining test', () => {
 
     const auth_token='Bearer b86e1c4e8c77ff8a9e56256e0f7c82b87a0036995611dab931d40bc2565fd832';
 
